@@ -1,5 +1,5 @@
 <!-- README personalizado de Samuel Oliveira Sobral -->
-<h1 align="center">☕️ Olá, eu sou o Samuel Oliveira Sobral</h1>
+<h1 align="center">☕️ Olá, eu sou o Samuel </h1>
 
 <p align="center">
   <b>Desenvolvedor Backend</b> focado em código limpo, boas práticas e aprendizado constante.<br>
