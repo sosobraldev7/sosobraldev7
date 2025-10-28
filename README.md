@@ -1,5 +1,5 @@
 <!-- README personalizado de Samuel Oliveira Sobral -->
-<h1 align="center">👋 Olá, eu sou o Samuel Oliveira Sobral</h1>
+<h1 align="center">☕️ Olá, eu sou o Samuel Oliveira Sobral</h1>
 
 <p align="center">
   <b>Desenvolvedor Backend</b> focado em código limpo, boas práticas e aprendizado constante.<br>
@@ -13,8 +13,7 @@
 ---
 
 ### 🧠 Sobre mim
-Sou um desenvolvedor backend que gosta de entender como as coisas funcionam por trás do código.  
-Busco sempre aprender novas tecnologias e aprimorar meus conhecimentos em sistemas e versionamento de código.
+Sou desenvolvedor backend e adoro descobrir como as coisas realmente funcionam por trás do código. Estou sempre aprendendo novas tecnologias e procurando maneiras de melhorar meus sistemas e meu jeito de trabalhar com versionamento de código
 
 ---
 
