@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c1/fc/9d/c1fc9d7f6ae08d56f2b84e81799790a5.gif" alt="GIF Minimalista" width="300px">
+  <img src="https://i.pinimg.com/originals/a1/01/b4/a101b4cd58d9ae85a1a9f85f40e36e7b.gif" alt="GIF Minimalista" width="300px">
 </p>
 
 ---
