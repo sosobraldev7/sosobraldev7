@@ -1,4 +1,3 @@
-<!-- README personalizado de Samuel Oliveira Sobral -->
 <h1 align="center">☕️ Olá, eu sou o Samuel </h1>
 
 <p align="center">
