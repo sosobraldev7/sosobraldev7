@@ -12,7 +12,7 @@
 ---
 
 ### 🧠 Sobre mim
-Sou desenvolvedor backend e adoro descobrir como as coisas realmente funcionam por trás do código. Estou sempre aprendendo novas tecnologias e procurando maneiras de melhorar meus sistemas e meu jeito de trabalhar com versionamento de código
+Sou desenvolvedor backend e adoro descobrir como as coisas realmente funcionam por trás do código. Estou sempre aprendendo novas tecnologias, e procurando maneiras de melhorar meus sistemas e meu jeito de trabalhar com versionamento de código
 
 ---
 
